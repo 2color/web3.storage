@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.8.3](https://github.com/web3-storage/web3.storage/compare/website-v2.8.2...website-v2.8.3) (2022-06-20)
+
+
+### Bug Fixes
+
+* rename `id` -> `cid`... ([#1470](https://github.com/web3-storage/web3.storage/issues/1470)) ([a5cb811](https://github.com/web3-storage/web3.storage/commit/a5cb81136bee4c197eaa0813488dadfea99768e9))
+
 ## [2.8.2](https://github.com/web3-storage/web3.storage/compare/website-v2.8.1...website-v2.8.2) (2022-06-20)
 
 
